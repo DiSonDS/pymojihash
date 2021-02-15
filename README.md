@@ -3,7 +3,7 @@
 Hash a unicode string to emoji.
 
 [kawa-kokosowa/pymojihash](https://github.com/kawa-kokosowa/pymojihash) fork
-Based on the npm package [hash-emoji by
+based on the npm package [hash-emoji by
 earobinson](https://github.com/earobinson/hash-emoji).
 
 You can run tests simply by running `pytest`.
